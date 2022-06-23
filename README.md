@@ -3,4 +3,4 @@
 
 
 
-[link softcam](https://raw.githubusercontent.com/karimSATPRO/ENIGMA2WOE/main/SoftCam.Key))
+[SOFTCAM.KEY](https://raw.githubusercontent.com/karimSATPRO/ENIGMA2WOE/main/SoftCam.Key))
